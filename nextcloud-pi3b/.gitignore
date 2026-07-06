@@ -1,0 +1,13 @@
+.env
+
+backups/*
+!backups/.gitkeep
+
+data/nextcloud/*
+!data/nextcloud/.gitkeep
+
+data/db/*
+!data/db/.gitkeep
+
+data/redis/*
+!data/redis/.gitkeep
